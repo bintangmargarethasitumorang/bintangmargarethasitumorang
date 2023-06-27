@@ -198,4 +198,3 @@ if st.button('Download CSV'):
 
 
 st.caption('Bintang Margaretha Situmorang')
-
