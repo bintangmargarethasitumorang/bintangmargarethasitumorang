@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Bintang Margaretha Situmorang**.\
+Perkenalkan nama saya **Bintang Margaretha Situmorang**.
 
 Saya adalah seorang mahasiswi semester 5 dengan jurusan Sistem Informasi di Institut Teknologi Del. Sejak awal perkuliahan, saya telah mengembangkan minat yang kuat dalam bidang data analyst. Saya percaya bahwa data memiliki potensi besar untuk memberikan wawasan berharga dan mendukung pengambilan keputusan yang cerdas.
 Selama perjalanan studi saya, saya telah mempelajari berbagai konsep dan alat yang relevan dalam analisis data, seperti pengumpulan data, pengolahan, dan visualisasi. Saya juga memiliki pemahaman yang baik tentang bahasa pemrograman seperti SQL, Python dan R, serta pengetahuan tentang database dan teknik analisis statistik.
