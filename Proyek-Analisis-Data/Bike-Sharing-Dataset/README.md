@@ -6,3 +6,5 @@ Setup Environment:
 
 Run streamlit app:
 streamlit run dashboard.py
+
+You can see my portofolio [here](https://www.cakeresume.com/me/bintang-situmorang/portfolios)
